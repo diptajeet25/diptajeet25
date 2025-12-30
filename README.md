@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://i.ibb.co/9HkJkzZ/github-banner.png](https://ibb.co/Txgzfc8R)" alt="Banner" />
+</p>
+
 # Diptajeet | Information and Communication Engineering Student at NSTU
 
 Welcome to my GitHub profile! I am currently pursuing a BSc in Information and Communication Engineering at Noakhali Science and Technology University (NSTU), focusing on modern web development and front-end technologies.
@@ -15,6 +19,11 @@ I am passionate about designing and developing responsive web interfaces using t
 - **HTML5 & CSS3**
 - **Tailwind CSS**
 - **JavaScript (ES6+)**
+- **React **
+- **Firebase **
+- **Node.js **
+- **Express.js **
+- **MongoDB **
 
 ---
 
