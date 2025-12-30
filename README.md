@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/Txgzfc8R](https://i.ibb.co/FLDGr6wJ/Chat-GPT-Image-Dec-30-2025-11-29-46-PM.png" alt="Banner" />
+  <img src="https://i.ibb.co/FLDGr6wJ/Chat-GPT-Image-Dec-30-2025-11-29-46-PM.png" alt="Banner" />
 </p>
 
 <h1 align="center">Diptajeet Roy</h1>
