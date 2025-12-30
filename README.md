@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="[https://i.ibb.co/9HkJkzZ/github-banner.png](https://ibb.co/Txgzfc8R)" alt="Banner" />
+  <img src="https://ibb.co/Txgzfc8R" alt="Banner" />
 </p>
 
-# Diptajeet | Information and Communication Engineering Student at NSTU
+<h1 align="center">Diptajeet Roy</h1>
+<h3 align="center">Information & Communication Engineering Student | Frontend Developer</h3>
 
-Welcome to my GitHub profile! I am currently pursuing a BSc in Information and Communication Engineering at Noakhali Science and Technology University (NSTU), focusing on modern web development and front-end technologies.
+
+Welcome to my GitHub profile! I focus on building responsive, user-friendly, and efficient web applications using modern frontend technologies.I enjoy learning new tools, improving UI/UX, and turning ideas into real-world solutions.
 
 ---
 
