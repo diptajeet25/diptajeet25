@@ -6,13 +6,13 @@
 <h3 align="center">Information & Communication Engineering Student | Frontend Developer</h3>
 
 
-Welcome to my GitHub profile! I focus on building responsive, user-friendly, and efficient web applications using modern frontend technologies.I enjoy learning new tools, improving UI/UX, and turning ideas into real-world solutions.
-
 ---
 
 ## 👨‍💻 About Me
 
-I am passionate about designing and developing responsive web interfaces using the latest technologies. My academic journey at NSTU has provided me with a strong foundation in problem-solving, teamwork, and continuous learning. I enjoy building efficient, user-centric solutions and exploring new frameworks and tools.
+I am passionate about designing and developing responsive web interfaces using modern technologies.
+My academic journey at NSTU has strengthened my problem-solving skills and collaborative mindset.
+I focus on building user-friendly web applications using React and modern JavaScript.
 
 ---
 
