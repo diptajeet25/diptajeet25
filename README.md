@@ -16,6 +16,16 @@ I focus on building user-friendly web applications using React and modern JavaSc
 
 ---
 
+##🚀 Current Activities
+
+Exploring Next.js and modern development workflows
+
+Working on a tax payment website
+
+Learning modern frontend tools and best practices
+
+---
+
 ## ⚡ Technologies
 <p align="left"> 
 <img src="https://readme-components.vercel.app/api?component=logo&logo=html5" />
@@ -30,11 +40,30 @@ I focus on building user-friendly web applications using React and modern JavaSc
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c" />
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" />
 
+---
 
-
-
+<p>
+  <a href="https://github.com/diptajeet25">GitHub</a> |
+  <a href="diptajeet-roy">LinkedIn</a> |
+  <a href="mailto:diptajeet345@gmail.com">Email</a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptajeet25&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptajeet25&layout=compact&theme=tokyonight" />
+</p>
+
+
+
 
 ## 📂 Selected Projects
 
