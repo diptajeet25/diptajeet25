@@ -77,18 +77,6 @@ Learning modern frontend tools and best practices
 </p>
 
 
-
-
-
-
-## 📂 Selected Projects
-
-### [Green Earth](https://github.com/programming-hero-web-course-4/b12a6-green-earth-diptajeet25)
-A web application advocating for environmental awareness and sustainability, built with a modern tech stack and a focus on user experience.
-
-### [Tea Shop](https://github.com/diptajeet25/Tea-Shop)
-A clean, responsive online tea shop interface showcasing advanced front-end skills and attention to design.
-
----
-
-Thank you for visiting my GitHub profile!
+<p align="center">
+  Thank you for visiting my GitHub profile! ⭐
+</p>
