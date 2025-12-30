@@ -42,11 +42,20 @@ Learning modern frontend tools and best practices
 
 ---
 
-<p>
-  <a href="https://github.com/diptajeet25">GitHub</a> |
-  <a href="diptajeet-roy">LinkedIn</a> |
-  <a href="mailto:diptajeet345@gmail.com">Email</a>
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/diptajeet25">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/diptajeet-roy">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&svgfill=0a66c2" />
+  </a>
+  <a href="mailto:diptajeet345@gmail.com">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&svgfill=ea4335" />
+  </a>
 </p>
+
 
 ---
 
@@ -58,11 +67,11 @@ Learning modern frontend tools and best practices
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diptajeet25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptajeet25&theme=tokyonight" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptajeet25&theme=tokyonight" />
-</p>
+
 
 
 
