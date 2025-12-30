@@ -28,7 +28,7 @@ I am passionate about designing and developing responsive web interfaces using t
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=express.js">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=mongodb">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c++" />
 
 
 
