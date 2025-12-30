@@ -23,7 +23,7 @@ I am passionate about designing and developing responsive web interfaces using t
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&svgfill=8ed5fa">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express&svgfill=df5c43">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 
 
