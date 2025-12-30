@@ -44,6 +44,8 @@ Learning modern frontend tools and best practices
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://github.com/diptajeet25">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=github" />
@@ -55,6 +57,11 @@ Learning modern frontend tools and best practices
     <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&svgfill=ea4335" />
   </a>
 </p>
+
+<p align="center">
+  📧 <strong>diptajeet345@gmail.com</strong>
+</p>
+
 
 
 ---
