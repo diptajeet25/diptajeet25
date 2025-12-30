@@ -19,7 +19,7 @@ I am passionate about designing and developing responsive web interfaces using t
 ## ⚡ Technologies
 <p align="left"> 
 <img src="https://readme-components.vercel.app/api?component=logo&logo=html5" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=black&svgfill=1572b6" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=css3" />
 <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss" />
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin">
