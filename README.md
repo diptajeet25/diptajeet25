@@ -53,14 +53,12 @@ Learning modern frontend tools and best practices
   <a href="https://www.linkedin.com/in/diptajeet-roy">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&svgfill=0a66c2" />
   </a>
-  <a href="mailto:diptajeet345@gmail.com">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&svgfill=ea4335" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diptajeet345@gmail.com">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&svgfill=ea4335" />
+</a>
 </p>
 
-<p align="center">
-  📧 <strong>diptajeet345@gmail.com</strong>
-</p>
+
 
 
 
