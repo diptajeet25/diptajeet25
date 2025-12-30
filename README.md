@@ -42,7 +42,6 @@ Learning modern frontend tools and best practices
 
 ---
 
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
