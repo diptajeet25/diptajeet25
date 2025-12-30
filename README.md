@@ -21,12 +21,12 @@ I am passionate about designing and developing responsive web interfaces using t
 <img src="https://readme-components.vercel.app/api?component=logo&logo=html5" />
 <img src="https://readme-components.vercel.app/api?component=logo&logo=css3" />
 <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss" />
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=javascript">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=express.js">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=mongodb">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c" />
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" />
 
