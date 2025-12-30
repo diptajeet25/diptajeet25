@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.png alt="Banner" />
+  <img src="./banner.png" alt="Banner" />
 </p>
+
 
 <h1 align="center">Diptajeet Roy</h1>
 <h3 align="center">Information & Communication Engineering Student | Frontend Developer</h3>
