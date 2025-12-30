@@ -51,7 +51,7 @@ Learning modern frontend tools and best practices
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptajeet25&theme=tokyonight" />
 </p>
 
 <p align="center">
