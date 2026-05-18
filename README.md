@@ -1,75 +1,141 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner" />
+  <img src="./banner.png" width="100%" alt="Diptajeet Roy Banner" />
 </p>
 
 <h1 align="center">Diptajeet Roy</h1>
 
 <p align="center">
-  Full Stack Developer • React Enthusiast • ICE Student at NSTU
+  Full Stack Developer • MERN Stack Enthusiast • ICE Student at NSTU
+</p>
+
+<p align="center">
+  Building modern, scalable, and user-focused web applications with clean architecture and responsive UI.
 </p>
 
 <p align="center">
   <a href="https://github.com/diptajeet25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/diptajeet-roy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:diptajeet345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+# Developer Profile
 
 ```js
 const dipta = {
   role: "Full Stack Developer",
+
   university: "Noakhali Science and Technology University",
-  currentlyLearning: ["Next.js", "Modern Frontend Architecture"],
-  workingOn: "Tax Payment Platform",
-  technologies: [
-    "React.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Firebase"
-  ]
+
+  currentlyLearning: [
+    "Next.js",
+    "System Design",
+    "Modern Frontend Architecture"
+  ],
+
+  workingOn: [
+    "Tax Payment Platform",
+    "Scalable MERN Applications"
+  ],
+
+  technologies: {
+    frontend: [
+      "React.js",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
+
+    database: [
+      "MongoDB"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Firebase",
+      "VS Code"
+    ]
+  }
 };
 ```
 
-I enjoy building clean, responsive, and user-focused web applications using modern JavaScript technologies.  
-My focus is on creating scalable frontend experiences and improving full stack development skills.
-
 ---
 
-## Tech Stack
+# Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,vscode,c,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,c,cpp&perline=8" />
 </p>
 
 ---
 
-## Current Focus
+# Featured Projects
 
-- Building scalable MERN stack applications
-- Exploring Next.js and modern workflows
-- Improving UI/UX and frontend performance
-- Learning clean architecture and best practices
+## Tax Payment Platform
+
+Modern taxation platform with authentication, dashboards, payment workflow, and responsive user experience.
+
+### Tech Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+### Features
+
+- Secure Authentication
+- Dynamic Dashboard
+- Payment Management
+- Responsive Design
 
 ---
 
-## GitHub Statistics
+## MERN Stack Applications
+
+Full stack applications focused on clean UI, scalable backend architecture, and performance optimization.
+
+### Focus Areas
+
+- Authentication Systems
+- REST APIs
+- Responsive Frontend
+- Modern UI/UX
+- Database Integration
+
+---
+
+# Currently Building
+
+- Scalable MERN stack applications
+- Modern React architecture
+- Advanced frontend workflows
+- Clean and reusable UI systems
+- Performance-focused web experiences
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptajeet25&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptajeet25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -78,14 +144,39 @@ My focus is on creating scalable frontend experiences and improving full stack d
 
 ---
 
-## Quote
+# Contribution Activity
 
 <p align="center">
-  <i>“Building modern digital experiences with clean code.”</i>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# Development Philosophy
+
+```txt
+Clean code.
+Modern architecture.
+Meaningful user experience.
+Continuous learning.
+```
+
+---
+
+# Connect With Me
+
+<p align="left">
+  <a href="mailto:diptajeet345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/diptajeet-roy">
+    <img src="https://img.shields.io/badge/LinkedIn-Diptajeet_Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile.
+  Open to collaboration, innovative projects, and development opportunities.
 </p>
