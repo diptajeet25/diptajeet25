@@ -13,19 +13,18 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/diptajeet25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="https://linkedin.com/in/diptajeet-roy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# Connect With Me
 
-  <a href="mailto:diptajeet345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Contact" />
-  </a>
+
+ <p align="center">
+<a href="https://github.com/diptajeet25"><img src="https://img.icons8.com/color/48/github.png" width="48"/></a>&ensp;&ensp;
+<a href="https://linkedin.com/in/diptajeet-roy"><img src="https://img.icons8.com/color/48/linkedin.png" width="48"/></a>&ensp;&ensp;
+<a href="mailto:diptajeet345@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/></a>&ensp;&ensp;
+<a href="https://diptajeet-roy.vercel.app/"><img src="https://img.icons8.com/color/48/briefcase.png" width="48"/></a>
 </p>
+
+
 
 
 ---
