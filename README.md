@@ -1,82 +1,91 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" />
+  <img src="./banner.png" width="100%" alt="Banner" />
 </p>
 
-
 <h1 align="center">Diptajeet Roy</h1>
-<h3 align="center">Information & Communication Engineering Student | Full Stack Developer</h3>
 
-
----
-
-## 👨‍💻 About Me
-
-I am passionate about designing and developing responsive web interfaces using modern technologies.
-My academic journey at NSTU has strengthened my problem-solving skills and collaborative mindset.
-I focus on building user-friendly web applications using React and modern JavaScript.
-
----
-
-##🚀 Current Activities
-
-Exploring Next.js and modern development workflows
-
-Working on a tax payment website
-
-Learning modern frontend tools and best practices
-
----
-
-## ⚡ Technologies
-<p align="left"> 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=html5" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=css3" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss" />
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=javascript">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=express.js">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=mongodb">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" />
-
----
-
-
-## 🤝 Connect With Me
+<p align="center">
+  Full Stack Developer • React Enthusiast • ICE Student at NSTU
+</p>
 
 <p align="center">
   <a href="https://github.com/diptajeet25">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/diptajeet-roy">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&svgfill=0a66c2" />
+
+  <a href="https://linkedin.com/in/diptajeet-roy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diptajeet345@gmail.com">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&svgfill=ea4335" />
-</a>
+
+  <a href="mailto:diptajeet345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
-
-
-
-
 
 ---
 
-## 📊 GitHub Stats
+## About Me
+
+```js
+const dipta = {
+  role: "Full Stack Developer",
+  university: "Noakhali Science and Technology University",
+  currentlyLearning: ["Next.js", "Modern Frontend Architecture"],
+  workingOn: "Tax Payment Platform",
+  technologies: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Firebase"
+  ]
+};
+```
+
+I enjoy building clean, responsive, and user-focused web applications using modern JavaScript technologies.  
+My focus is on creating scalable frontend experiences and improving full stack development skills.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptajeet25&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,vscode,c,cpp" />
+</p>
+
+---
+
+## Current Focus
+
+- Building scalable MERN stack applications
+- Exploring Next.js and modern workflows
+- Improving UI/UX and frontend performance
+- Learning clean architecture and best practices
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptajeet25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diptajeet25&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptajeet25&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=diptajeet25&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## Quote
 
 <p align="center">
-  Thank you for visiting my GitHub profile! ⭐
+  <i>“Building modern digital experiences with clean code.”</i>
+</p>
+
+---
+
+<p align="center">
+  Thank you for visiting my profile.
 </p>
