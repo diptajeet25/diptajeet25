@@ -167,16 +167,10 @@ Continuous learning.
 
 <p align="left">
   <a href="mailto:diptajeet345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/diptajeet-roy">
-    <img src="https://img.shields.io/badge/LinkedIn-Diptajeet_Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  Open to collaboration, innovative projects, and development opportunities.
 </p>
