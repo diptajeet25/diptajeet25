@@ -166,7 +166,7 @@ Continuous learning.
 
 <p align="left">
   <a href="mailto:diptajeet345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/diptajeet-roy">
