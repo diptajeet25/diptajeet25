@@ -12,18 +12,25 @@
   Building modern, scalable, and user-focused web applications with clean architecture and responsive UI.
 </p>
 
+
 <p align="center">
   <a href="https://github.com/diptajeet25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
+  &nbsp;
+
   <a href="https://linkedin.com/in/diptajeet-roy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:diptajeet345@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+  &nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diptajeet345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
