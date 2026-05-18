@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Diptajeet Roy</h1>
-<h3 align="center">Information & Communication Engineering Student | Frontend Developer</h3>
+<h3 align="center">Information & Communication Engineering Student | Full Stack Developer</h3>
 
 
 ---
