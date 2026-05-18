@@ -133,7 +133,7 @@ Full stack applications focused on clean UI, scalable backend architecture, and 
 # GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diptajeet25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptajeet25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
